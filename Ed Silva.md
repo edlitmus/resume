@@ -22,6 +22,7 @@ Aug 2017 – Present
 - Build tooling in Go to manage Salt secure pillar data; project was open‑sourced by Everbridge.
 - Provide architectural guidance to development teams and system architects; mentor junior engineers.
 - Establish a collaborative development model with platform consumers; contribute to organization‑wide initiatives.
+- Work with external teams to identify key performance indicators and establish pro-active monitoring and alerting solutions.
 
 ### OpenX — Senior Software Engineer, Automation Engineering (Technology Operations)
 
